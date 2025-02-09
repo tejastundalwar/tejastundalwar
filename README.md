@@ -2,6 +2,12 @@
 
 ###
 
+<br clear="both">
+
+<h6 align="left">ABOUT ME:<br><br>👋 Hi, I'm Tejas – React.js Developer ⚛️<br>💻 Frontend: React.js ⚛️ | HTML & CSS 🎨 | JavaScript 🚀<br>🛠 Backend: Java ☕ | Spring Boot 🌱 | SQL/MongoDB 🗄️<br>🔄 Full-Stack: CRUD Operations 🔄 | REST APIs 🔗 | Authentication 🔑<br>🎨 UI/UX: Responsive Design 📱 | Material UI 🎭 | Tailwind CSS 💡<br>⚡ Optimization: Lazy Loading 🕶️ | State Management 🔥 | Debugging 🐞</h6>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tejastundalwar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=tejastundalwar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -56,13 +62,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/tejastundalwar/tejastundalwar/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/tejastundalwar/count.svg?"  />
 </div>
 
